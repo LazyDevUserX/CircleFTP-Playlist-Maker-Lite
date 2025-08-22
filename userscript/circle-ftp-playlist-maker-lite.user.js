@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Circle FTP Playlist Maker (Lite)
 // @namespace    http://tampermonkey.net/
-// @version      1.08
+// @version      1.00
 // @description  Lightweight version for low-end systems. Generates XSPF playlist with optional season filtering for CircleFTP
 // @author       LazyDevUserX
 // @match        http://15.1.1.50/*
 // @match        http://new.circleftp.net/*
+// @downloadURL  https://raw.githubusercontent.com/LazyDevUserX/CircleFTP-Playlist-Maker-Lite/main/userscript/circle-ftp-playlist-maker-lite.user.js
+// @updateURL    https://raw.githubusercontent.com/LazyDevUserX/CircleFTP-Playlist-Maker-Lite/main/userscript/circle-ftp-playlist-maker-lite.user.js
 // @grant        none
 // ==/UserScript==
 
