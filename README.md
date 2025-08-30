@@ -13,6 +13,9 @@ Optimized for **low-end systems** by minimizing UI and resource usage.
 - Works on both:
   - `http://15.1.1.50/*`
   - `http://new.circleftp.net/*`
+---
+## 🖼️ Script In Action
+<img width="1365" height="767" alt="screenshot-1756534340004" src="https://github.com/user-attachments/assets/ec978776-b5ed-4960-96e2-f59608221029" />
 
 ---
 
